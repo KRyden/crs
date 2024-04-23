@@ -16,6 +16,7 @@ To support an encoding of the self-contained and compact description of Coordina
 The CRS SWG has recently completed work on:
 
   22-010r4 Topic 24 Functional Model for Crustal Deformation (https://portal.ogc.org/files/?artifact_id=106827&version=1 [portal.ogc.org])
+  
   22-051r7 GGXF geodetic data grid exchange format v1.0 (https://portal.ogc.org/files/?artifact_id=106828&version=1 [portal.ogc.org])
   
 And are now able to begin the important work of vetting and documenting the CRS JSON encoding.  As discussed in the CRS SWG charter, this encoding will align with OGC Abstract Specification topic 2 and ISO 19111, and will be informed by the existing PROJ JSON schema, aiming for compatibility with the existing PROJ JSON schema where practical.
